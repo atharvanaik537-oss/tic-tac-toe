@@ -9,7 +9,7 @@
 
 ## Key Features:
 
-## Two Game Modes:
+**Two Game Modes:**
 **1. Player vs Player (PvP):** Classic local multiplayer mode.
 **2. Player vs Computer (PvC):** Play against an AI that intelligently searches for winning moves and blocks your paths.
 **3. Dynamic Theme Switcher:** Toggle between Dark, Nature, and Sunset themes to customize your visual experience.
