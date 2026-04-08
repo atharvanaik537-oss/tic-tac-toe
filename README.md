@@ -1,7 +1,7 @@
 ## Tic-Tac-Toe Pro
 ---
 
-## Overview:
+### Overview:
 
 **Tic-Tac-Toe Pro** is a modern, interactive web-based version of the classic Tic Tac Toe game. Built with a focus on sleek UI and smooth user experience, it features a glassmorphism design, multiple game modes, and customizable themes. Whether you want to challenge a friend locally or test your skills against a smart AI, Tic Tac Toe Pro provides a polished environment for competitive play.
 ---
