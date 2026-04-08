@@ -65,11 +65,6 @@ The game will automatically open in your browser at http://127.0.0.1:5500.
 
 ---
 
-## 📝 Note to Evaluator
-The APK was generated using **Capacitor JS**. All core logic for authentication and event management resides in the `www/src/` directory.
-
----
-
 ## 👨‍💻 Developer
 * **Name:** Atharva Naik
 * **UNID:** UMID03122572866
