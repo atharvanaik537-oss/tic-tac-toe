@@ -70,9 +70,6 @@ The APK was generated using **Capacitor JS**. All core logic for authentication 
 
 ---
 
-![Game Preview](D:\tictactoe.png)
-
----
 ## 👨‍💻 Developer
 * **Name:** Atharva Naik
 * **UNID:** UMID03122572866
