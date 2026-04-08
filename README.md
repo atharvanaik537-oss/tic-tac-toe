@@ -1,9 +1,10 @@
 ## Tic-Tac-Toe Pro
----
 
+---
 ### Overview:
 
 **Tic-Tac-Toe Pro** is a modern, interactive web-based version of the classic Tic Tac Toe game. Built with a focus on sleek UI and smooth user experience, it features a glassmorphism design, multiple game modes, and customizable themes. Whether you want to challenge a friend locally or test your skills against a smart AI, Tic Tac Toe Pro provides a polished environment for competitive play.
+
 ---
 
 ## Key Features:
@@ -17,6 +18,7 @@
 **6. Immersive Audio:** Integrated sound effects for clicks, wins, and draws (can be toggled on/off).
 **7. Responsive Design:** Fully optimized for desktop, tablet, and mobile screens.
 **8. Winning Animations:** Visual feedback with CSS animations when a player wins or places a marker.
+
 ---
 
 ## Project Structure:
@@ -60,11 +62,14 @@ Double-click index.html to open it in your default web browser.
 Open the project folder in VS Code.
 If you have the Live Server extension installed, click the "Go Live" button in the bottom right corner.
 The game will automatically open in your browser at http://127.0.0.1:5500.
+
 ---
 
 ## 📝 Note to Evaluator
 The APK was generated using **Capacitor JS**. All core logic for authentication and event management resides in the `www/src/` directory.
+
 ---
+
 ![Game Preview](D:\tictactoe.png)
 
 ---
